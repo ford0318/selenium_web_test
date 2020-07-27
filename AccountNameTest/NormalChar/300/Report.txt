@@ -1,0 +1,50 @@
+ID: 1
+ORIGIN INPUT: 
+gTY9YsneGdI9Y7lOGt70yB581fvqIG0BAG0UY5MLM006z9TyRZ2Xu7Rzy0vMwUsgB1E9H5mA8OK8Yftj69vD1pKgIS99iz2ILqR4mZUNH0FiGBX8LcLDtqFip6G1tqDkM2pRDD3t70UqQCbQKInjsVJqVnWrkNm54hParmbcT3c1EzTPNGrfIS0rGMgOaykkKAGQ74CVg74SQSnXjIC0FaxMZrM1tHSBzoYve2glKtxmk2tcLf3uRiQCcpO112SRViHEfG3zrkuqMwPJ6smSe8qSoep2Ehc6NL2Y8rAc1PQM
+Result : *********   PASS   *********
+=========================================
+ID: 2
+ORIGIN INPUT: 
+lRk3iN1x8DMkFClbQpzT94JrpW7daJxnMfAhkw4S1EAy897FCbbZn8jL5z00mYA5fgiCETESE7OXlL792USvEkvWFw8xrst8JsEjEHd8Qco6V4PnjWBAQ5s8ocCyVLZTmVw7T5JA78yj4Cnog1b2Rns6aTP9rGrDaL2yEIzsjgerMZaBXxMcavwFyQhmsrTYIeacDUqxnBaujY3SK0DazUWC8zpy4E7y37FsELgRpCHdORMA8gZJA7fygNSRW2EcW3rHkBkSGagCruhmcQ1eAGqadVBR4je71n2nzcFuj8ls
+Result : *********   PASS   *********
+=========================================
+ID: 3
+ORIGIN INPUT: 
+GmKTfnhsLjFlY8BhoO76dblUEsg1iqa3QFJDMewMFDEdhQy6kEOeyxKKi4RoyJLMO1HpOdW9pkOC2IBnHrhBc82gPLLQfGBVyYjYFuS6TB3ir7LPQtZcuc0PYW2qMgefHYapkkPqTLqLzrsvC26rNMe8vuiU5KprccNT7ca169895V5yXil0F0K7laVKZw0omZreC18CKfcnYxZbJbGbLKkKNUHVhH4Yx8bjEPlBQRsx5E0r16Scr4nghuqlP4achZysiQIl9wIBIpEzaR5RvLjlzgAEOsLYUeGAiaJv7hJE
+Result : *********   PASS   *********
+=========================================
+ID: 4
+ORIGIN INPUT: 
+FPE3Z7Cr5gkPWxS3Wr4pLtjapNIe22r9jyegOCgv4F8t1XclVYUJWKfU0Z1y1EEDB9jrFUmi0jrC6zdFDvwAHETIQ0xOcey9Oxhi3NoCIc9JLM16Q7BlgzERoi7ok83n4KuiffMsE8K6pSBa2oL14qH30gw6nwBq4DPNat4N6dlQzJNbrsS4dgURlze5Z8FurxvN5IKLGAkaO9etAA8m2bD3fbq4hEsgjXquXMn73C4o5kTEohtvp2oeKV0sla3KnspKwUJutoW0ydSv3fQlRoTFZW11jjb3FwHx4TI2Mku3
+Result : *********   PASS   *********
+=========================================
+ID: 5
+ORIGIN INPUT: 
+M47akAurXAPqJNwlIfiMdimXzE4UbNKKB5rHPpBzFKwzlmXADkEynkIbEQSkBSXF1WDYTuyIXAdwSItWmO8cKWJVDbUDh3Z9ze23emisUtWgd1ldosH6wwRt9DJwQvzhf8LZG5RWOeeP1AMg3TsMsS0Qq0cVI8UOiAdVIj2t7u4fayZYdSiVWIr4lwyLnE14zuM6KNkvAQxKq0jlHoH8JaTrQgPV3KgmTvWM5pbDgIKEvWwnudPTTzHzCdF6C2tnP2C8WVNgqU5PfQRHEvTVNyWwqgdD2A8aehmRgdbr8Zvx
+Result : *********   PASS   *********
+=========================================
+ID: 6
+ORIGIN INPUT: 
+d8N5zZ3AEB8bnVzHZwVO1AWmO0PVwmIDcWWI8VfH6tdQw7uICGRHid0n7JYauCORnrWuFDgoVlGBV8jlDGtQ9UQHA7oxENNydKyOnPpzJYmxEjR10n6Z9sDyThauGwFVGKMYgf43uN46zK3ptbfLV0P4dh0pHD6Rk8zsl2DXvcv3twxApnvtmoO79D6FaXhalZWMS61coLvod7iG968jrrVdC5YU7afoXKRLKYRsGwxjtholxfIWpUebxOSU9JaANM04zKycBgiyeR2WOsPygZH8FRset9xMpZTmynOAOVyV
+Result : *********   PASS   *********
+=========================================
+ID: 7
+ORIGIN INPUT: 
+xdujqYCA9lu0A4AjgT44x3zKuszQKUWbPEPmWpKODGqRI808yMo1ftOAMj0mqWnhqZw6WPYJa6aPkRvh6HqWiVqndyN3dPAlw3SewFlLOqegD9XA5myB0sw6W7qPqOwns10epmyc2IRTx1LjYv8WOxUpclU30xBE1zaW3RPlPLJDiYKD0mBClPiD9iSlwkTJnCJ2m4MQQx3e8snMMm4LXpxHvdJQUyuqwhdfebscu2fWf4FIdFAwtUegb5UCLvrbmTR9bgfXx4i4oxia3ZgLnJGsouISm9flyey7EFbPiuwn
+Result : *********   PASS   *********
+=========================================
+ID: 8
+ORIGIN INPUT: 
+zUWAxb4b5cqE9Nb3lBZdoEqjwGf0RVmXugQ0VzDu8FtK30U15NSAsVntNmVX4fQc5eSVcsuq5jvFXxxGYVLeSCqOrjAKrzyEY61YLCd5EXIIJqOsch9Zo9WnQYK3SVX38V754TeHuDgAo2i7ETx9LfzhLWoxdnCcp9h0zNXG9DlCfofXg2AY5792SfqzqYJHPAOZiDShowiUw46Guy2bSTyZDnn7KNv5nOdJtQajBTc7sxm21Z7K7medQoIjmh99VM9xzCTSOvoduvDnn0YGRwJO0iedQAtv1bsrircxAvPq
+Result : *********   PASS   *********
+=========================================
+ID: 9
+ORIGIN INPUT: 
+DUkctBmfQavvuz4ON39gB1Ft89h176na1h3MqKq23n54aVKIsAwKlI4IPq6ZUzUpGe0f5htDq37lrB08Yupl5NOOCZNhC8tNuhp9AQLY660PxjnErHXARWCCgbipZeJaljAJ6uO24nBnWcyMNyEpfJM0ST1JxNVVwVpRqe8Ybu4ZEVkAa7McYho6bQJgk56Ghf6bsJSVKlA6mpxz0MEl6JzWElBMKJZTq2GeijKtzUldVSDOJ5w0F297YbjZqXA5dP74KCmuqvUy7U1QDT4aJa5P6AoP4exAKd861yK6Fn9E
+Result : *********   PASS   *********
+=========================================
+ID: 10
+ORIGIN INPUT: 
+sATWR8MoMu4fJo7Pkgg7FAvCyRl6jylGbC4jPCgHhuQ3MQV2FniATgY8bZcyr52NhfCauWLdaqUJy3SpEybb6K7FofpzjAADz5GGXmrtg2flzOIiJiYitLPGpeECR6tXZi5vQkjVK21qmGds6LjpcGBMXQpo9F7WXvaP1kvGd5ix7gYyR42fUtMI9PJsBgbbVlaHbI1VvfC0zDln2ewTQ5XoV63jnHSDKm16DzVuJbogrAUVXl1tBQ7SklDkvShB1cQk5hnZVDEPMQI96hg4DHDUk2wkLzjnGiSy0AYYjWJw
+Result : *********   PASS   *********
+=========================================

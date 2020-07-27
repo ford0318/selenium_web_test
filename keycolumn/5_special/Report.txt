@@ -1,0 +1,642 @@
+ID: 1
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+_,&4Y
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 2
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+t[Cas
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 3
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+Ve"I(
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 4
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+<b@nG
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 5
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+![hVw
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 6
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+c@rRS
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 7
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+|i}.9
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 1
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+_,&4Y
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 2
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+t[Cas
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 3
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+Ve"I(
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 4
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+<b@nG
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 5
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+![hVw
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 6
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+c@rRS
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 7
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+|i}.9
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 8
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+jA?d?
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 9
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+h/mG:
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 10
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+;[1;O
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 11
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+'r5wv
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 12
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+F]Pm}
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 13
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+#KToS
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 14
+Alert Message : Wr72A keyLabel does not exist
+ORIGIN INPUT: 
+Wr72A
+Result : *********   Error / Key Not Exist   *********
+=========================================
+ID: 15
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+sxk`,
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 16
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+Z7zu~
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 17
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+"cQ,Y
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 18
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+qMee<
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 19
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+oNhp$
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 20
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+{7,k(
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 21
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+U.0%X
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 22
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+(}__6
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 23
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+`!&R.
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 24
+Alert Message : t2tSV keyLabel does not exist
+ORIGIN INPUT: 
+t2tSV
+Result : *********   Error / Key Not Exist   *********
+=========================================
+ID: 25
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+ujm]i
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 26
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+1#"f.
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 27
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+Bj}`P
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 28
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+JD(Eb
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 29
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+jBs"!
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 30
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+:8B~b
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 31
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+~YBB6
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 32
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+,}f(T
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 33
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+HI;/4
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 34
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+uZ^UC
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 35
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+W5Tb@
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 36
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+pI)VG
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 37
+Alert Message : xhd1e keyLabel does not exist
+ORIGIN INPUT: 
+xhd1e
+Result : *********   Error / Key Not Exist   *********
+=========================================
+ID: 38
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+S}txR
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 39
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+HS!;F
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 40
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+!,-?R
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 41
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+S4p$F
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 42
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+J^)xp
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 43
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+?72^v
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 44
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+no(R<
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 45
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+8}2z<
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 46
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+DckT/
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 47
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+cZB"5
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 48
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+DO)=f
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 49
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+>p.4K
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 50
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+6X4@E
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 51
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+!V`iy
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 52
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+8q^cp
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 53
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+&3ee%
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 54
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+Ev:qR
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 55
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+qeW'x
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 56
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+^Mti^
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 57
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+4t?6*
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 58
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+~_4;3
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 59
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+jXl[2
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 60
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+d:}zf
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 61
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+<`Ye+
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 62
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+UO@h%
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 63
+Alert Message : ZJZF_ keyLabel does not exist
+ORIGIN INPUT: 
+ZJZF_
+Result : *********   Error / Key Not Exist   *********
+=========================================
+ID: 64
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+e=-pG
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 65
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+yd[~c
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 66
+Alert Message : qjJoz keyLabel does not exist
+ORIGIN INPUT: 
+qjJoz
+Result : *********   Error / Key Not Exist   *********
+=========================================
+ID: 67
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+3|ovT
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 68
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+&(^[{
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 69
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+Nuy}?
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 70
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+A""%j
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 71
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+hsUS[
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 72
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+;_e'X
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 73
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+ibR<=
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 74
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+CQH(}
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 75
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+D9"bH
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 76
+Alert Message : jGB0a keyLabel does not exist
+ORIGIN INPUT: 
+jGB0a
+Result : *********   Error / Key Not Exist   *********
+=========================================
+ID: 77
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+h%6T\
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 78
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
++2%\:
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 79
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+JIT7*
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 80
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+:HJx&
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 81
+Alert Message : 9Q3b8 keyLabel does not exist
+ORIGIN INPUT: 
+9Q3b8
+Result : *********   Error / Key Not Exist   *********
+=========================================
+ID: 82
+Alert Message : aGeoJ keyLabel does not exist
+ORIGIN INPUT: 
+aGeoJ
+Result : *********   Error / Key Not Exist   *********
+=========================================
+ID: 83
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+Jtz`+
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 84
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+3d!*L
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 85
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+g-,F9
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 86
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+-vMX+
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 87
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+d^F!A
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 88
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+DyH@?
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 89
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+P1(^X
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 90
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+gm&{V
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 91
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+dt:tT
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 92
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+<dg\>
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 93
+Alert Message : U1ep3 keyLabel does not exist
+ORIGIN INPUT: 
+U1ep3
+Result : *********   Error / Key Not Exist   *********
+=========================================
+ID: 94
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+hsjL}
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 95
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+$'JSn
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 96
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+<}AcQ
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 97
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+.G4<8
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 98
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+E359*
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 99
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+Q<Y8$
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================
+ID: 100
+Alert Message : You have entered an invalid keyLabel! keyLabel only English or numbers or _
+ORIGIN INPUT: 
+:^BU?
+Result : *********   PASS  - KEY EXIST / WRONG FORMAT *********
+=========================================

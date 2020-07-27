@@ -1,0 +1,110 @@
+ID : 1
+Special Char Test Case : Total length -  101
+Normal char len :                        70
+Special char len :                       31
+Special char inside :   ['*', '@', '\\', '`', ';', ']', '"', '^', '%', '_', '=', '{', '/', '$', '&', '#', '<', '?']
+
+ORIGIN INPUT :  @MQZi@LA\T*$Ya2_lz4#<0;`c]d*Dw]iI5RX"^M]nDg8x%3Cvo7O;PB;sPa#d7&0aL_o={XL`h0PQnNry{5zSqs;0/5zjA?8_BT<
+
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 2
+Special Char Test Case : Total length -  101
+Normal char len :                        69
+Special char len :                       32
+Special char inside :   ['+', ']', '/', '-', '*', ':', '\\', "'", '[', '@', '|', ';', '{', '_', '&', '<', '?', ',', ')']
+
+ORIGIN INPUT :  q-YWBNkPka0HGP\QR1s{)ukP*nyOi3JaPo-V7-bo+;@o+S0/Nr1Uzunz37\W]&h*7_|[<KZJM1o6K][:la5?7x,&s<{*g'4{orQ?
+
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 3
+Special Char Test Case : Total length -  101
+Normal char len :                        70
+Special char len :                       31
+Special char inside :   ['+', ']', '/', '$', '#', '-', '}', ':', '%', '\\', '(', "'", '>', ';', '"', '_', '&', '<', '?', '^', ',', ')']
+
+ORIGIN INPUT :  l)LO+JH'32&/:roBF3j68X]H8o$S^k%oSZ\p_-i#<wq%d>r%WsqElgbAHdhJyaN,^,B}z%b4"ssO(ZK??lrukcggf;Ca}l0"_tBr
+
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 4
+Special Char Test Case : Total length -  101
+Normal char len :                        68
+Special char len :                       33
+Special char inside :   ['$', '-', '}', '*', ':', '\\', '%', "'", '!', '.', '[', '>', '@', '`', ';', '_', '&', '^', '~', ',']
+
+ORIGIN INPUT :  T>E60uh28,r'08`4$~HHo'-O7Q$!QB7cd^D;.U3Yz9V-2Y.3TNYeUgMkfxkCSqFtb*2:tz'c&x_bB$\cu@&*Nk[~7[%5A}y}v>_C
+
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 5
+Special Char Test Case : Total length -  101
+Normal char len :                        68
+Special char len :                       33
+Special char inside :   ['+', ']', '#', '-', ':', '%', '\\', '*', '(', '.', '[', '@', '`', '|', '"', '_', '&', '<', '?', '~', ',', ')']
+
+ORIGIN INPUT :  BcQ?h4qSn3dS%0SsoeFKlIitux\:`Qq_V-Kxpfvo](*m+T&f|mHj#Kspa@tdSHR8Z.+<@yg[b)#Y,PsT(&J\-@p\"e*mWSgi"EA~
+
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 6
+Special Char Test Case : Total length -  101
+Normal char len :                        63
+Special char len :                       38
+Special char inside :   ['+', '$', '#', '-', ':', '\\', '!', '>', '`', '|', ';', '"', '{', '_', '&', '<', '^', '=', '~', ',', ')']
+
+ORIGIN INPUT :  fCIVsM$)t"J=Xt!I^3m|jikG;d>s"9KMf+6,8k<v#XW":K6Ey_3~ez>!Lo-nqC$CwnH{pn>3ne{q#=4j0flj`"||g\;S&{:<T)tP
+
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 7
+Special Char Test Case : Total length -  101
+Normal char len :                        69
+Special char len :                       32
+Special char inside :   [']', '$', '#', '}', '*', ':', '\\', '%', '(', "'", '.', '[', '@', '`', '|', '{', '_', '?', '^', '=', '~', ')']
+
+ORIGIN INPUT :  \duD(*:~ucG1?`LZScD#{L1)3`D)$xd.db7~4rJcA%QKT86ZVeJ=eN3nCw|JC}_[w[@Bup_$8{vqOBt^o]\djq9wa'KXK\Hke2{r
+
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 8
+Special Char Test Case : Total length -  101
+Normal char len :                        60
+Special char len :                       41
+Special char inside :   ['+', ']', '/', '$', '-', '}', ':', '%', '*', '\\', '(', "'", '.', '!', '>', '@', '`', ';', '{', '&', '^', '~', ')']
+
+ORIGIN INPUT :  +mRY>{V:)sH5~)%u*'9k%/.dqi&KF}s^${-/tL]P%\!Bw`BwtApo]6-VimAW8Evpk)p`RCse'$As4etM&nur58')@2;(LQBw&()!
+
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 9
+Special Char Test Case : Total length -  101
+Normal char len :                        64
+Special char len :                       37
+Special char inside :   ['+', ']', '#', '}', ':', '%', '\\', '(', "'", '!', '.', '[', '>', '@', '|', ';', '{', '_', '&', '<', '^', ')']
+
+ORIGIN INPUT :  A5}e;!pwcfk|tuXQg>mXY]\C)jbh|i&[(U''0^mAL3+gXvtB+p%(>LGy13YsvzuA:_ll#m.p@_'\1|o+NnILZGN.{'hO!ZEn<#{E
+
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 10
+Special Char Test Case : Total length -  101
+Normal char len :                        70
+Special char len :                       31
+Special char inside :   ['+', ']', '/', '#', '-', '}', ':', '%', '*', "'", '.', '!', '@', ';', '"', '_', '<', '?', '^', '~']
+
+ORIGIN INPUT :  N?V<B.;6a1wk%kYRKV+3<EvKv:6*4};.p5pZ@l3P?_DQXJ!<!F2eWbXk"MB/}'HDRH#o2y5^1l"Am<rRi~<LU8R+]lfzoPXKT1Q-
+
+Result:
+*********   PASS reject punctuation   *********
+========================================================

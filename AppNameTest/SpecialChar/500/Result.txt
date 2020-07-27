@@ -1,0 +1,100 @@
+ID : 1
+Special Char Test Case : Total length -  500
+Normal char len :                        332
+Special char len :                       168
+Special char inside :   ['?', ';', '/', '+', ',', '^', '[', '-', '=', '`', '\\', '%', ':', '"', '.', '!', '|', '<', '@', '&', '}', '>', '(', ')', '$', '#', '_', '*', "'", '{', '~', ']']
+
+ORIGIN INPUT :  >/b=KlDN-9A:|8^rZ,>7]\mu\6rWe,9'9<UvDK(<#O71$A@c@1:UL/p3R6%mkH'C<H_r4]`({~5,&\Pc8?2Hl)4%l{Mx2%'/mfsYOTJ)Cg$"KSmrs~]MiT@B$sl;uO>%&]*$,%>%zb8GQ_i]<b<IE`c#c^9=i!.Wb6Hy/NDqyfCdCrn2%mw0!z7*+1Me7=,ICciT7Oo.:*TLFng:Rkf+nZA/AAE#D&(_hJok'qYSAMQVRUZ*L>4BZJ!fYH8+lMW<m{ng}t5ttV\'_;)`XbAGE`v~[l{@MMc4OfY0{0wH,VaJ{aVI#%kAeVbOB(K\x,!{KKCd!nrcRgnxK=ss{>4g"@rs?\Vzr21<Bq[XUQ0PR>v,bX0lVZjv1N[Md:zPV?hkR{)!{vKA"tJ\@NT&L3ky5#-f9\vkToh@pFP|V_5;'x:ip3ucC[qXB20h7`euH`5gUXD;^rYnwE0V;EXs:#Kb~hZ8;Rsi,\iAh9_Afw|';4#P:7j\7'h7
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 2
+Special Char Test Case : Total length -  500
+Normal char len :                        329
+Special char len :                       171
+Special char inside :   ['?', ';', '/', '+', ',', '^', '[', '-', '=', '`', '\\', '%', '.', '"', ':', '!', '|', '<', '@', '&', '}', '>', '(', ')', '$', '_', '#', '*', "'", '{', '~', ']']
+
+ORIGIN INPUT :  GX6v~G3'rQ5d.(&/7^<}F0_D-2kd@c,Myd|zI${Wr26"k_4[F<6O,u\EI]#<92gx+`=:N(KZ,;VR!5_5e:%K'=n+Dv<z~[\uY@P;9M<(9qe'`)HwXp24aX6(v|he\o%k3l!OQSC}`k]D<2R9yxQq?aVfTBk/ahbs%rfM]_hbsz%QyL;-pe%7)d/KQSXan{x_Gqfyd//<hOd+L1*+jf>$MNG=$k/{b~kK_()ar"wfjo-]c*M+qelE84bM^iGK9<+A!b=zmwE)m9H7.>$yqoq`Dr|YuJ*ha&>CmQO8Y#h$l*eO,C(LRwxLA+!0gNDcp)KC!:NDCA=g"c6q1Ec1PLqb`G!4s]/.U?&(&/_OsNuwQReX2C,*Wuw!r^MRravj~@8k!tj4xv+4~?s>U{-F}eNdzT#-|,GOdpOR$0U{6g]@s&wbt-crx0"mCnFLK.}^N9]'Ovt3GH,Y.8wb9s_B_[9cA#[Op=80T<hG42w8Q6j\wX5GF1S5IK\p
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 3
+Special Char Test Case : Total length -  500
+Normal char len :                        328
+Special char len :                       172
+Special char inside :   ['?', ';', '/', '+', ',', '^', '[', '-', '=', '`', '\\', '%', '.', ':', '"', '!', '|', '<', '@', '&', '}', '>', '(', ')', '$', '#', '_', '*', "'", '{', '~', ']']
+
+ORIGIN INPUT :  :PV.Ao#[9g&q(}T0wk>N"n_A(p9d$H)SR:I{ZWSWDLBs1/sBdf2-CHw2f%YZBPD1J|]pLU,}zOx@:v@GJ32~WNi#^Ern>?f4|[zpGiZ"PO_j$m|{s-js*:)^`Z9FQXk*hD;B{S*$:"'T$s#]YCZGFeQz$]4em'4-~FZZ&|w.XE|9p9D0(;#ol!<=;V[T,UM\f$FH86k))6}a`Bp9Z$t_Sb)%WUz{Obqv/SnopzOr@EgaXX//J`&4mM/;S{oP9;W=YKjTIa9_}iztLl`)"EfN,EeQkN*}C`51QXS7dg4.0hx4@bjxx7qF&*Vq5/=|"58wI~D5V[`,W$i.q}v$tZ"8t;X#oO(QmEIO\'HqSZe!!svwM6YQMw@>,:p^6uSr|mPdD-q&UC>HwGN?*k9W>qU=ZdcbeAd"_cDenuXh%#V3~7bSo=~-n:7c#C3VcI`vgapW]{s[<;KF\<v1+>'R!YqG-U-OsA>KZSAuZ6kZy04\v2<P&#'I-SZ[
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 4
+Special Char Test Case : Total length -  500
+Normal char len :                        327
+Special char len :                       173
+Special char inside :   ['?', ';', '/', '+', ',', '^', '[', '-', '=', '`', '\\', '%', '.', ':', '"', '!', '|', '<', '@', '&', '}', '>', '(', ')', '$', '#', '_', '*', "'", '{', '~', ']']
+
+ORIGIN INPUT :  5S+W#r^tuO{2/b<e)wM{a.7*ODT->*J$(.:hX8LLRDlU1XA9l.l2HzQ&)ckPr8r0KzW|"=h#oig|=yj)_B:BZ]GLq!%&ht0pF{r/NmN$#C2Lc8GD`ZeWI[>0w<rHH=o3MH:y~r8d5Gu6{(ifj(v6L1|c$ntW[WM94q?5pCPnM|'QgoO9[M/KEPg#()Ad>M;6JuY^rcRc|dXN8r8@N)VS\r:$;{*Y0=5#mRrqPaE(!hcL.e5_)_J(KhlG\~$P;NOUj8m{3W7Kio<!P%43^OJ[mFLqRd3|i{5$SV66)x2hVAY`qdMy}@?+ipZAaQ#l*.'.E*:Tf4$c2k[<.r"%>Bw;8a[TKt*2/8AhFbK\q.9D`{3BNVDRuh&7q"&Y1bL=%J1#?nD{o.E${Z!zm|D(e90.eK}yY-=4no[~QJV*ps'5*)TZ$a!(+0j[D<U%a~YFd)]Gpyd`^ET'2kEUD={3^,~;+hVo"t3F`R#"dkAuI{W64'81/&VcgUW?
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 5
+Special Char Test Case : Total length -  500
+Normal char len :                        335
+Special char len :                       165
+Special char inside :   ['?', ';', '+', '/', ',', '^', '[', '-', '=', '`', '\\', '%', ':', '"', '.', '!', '|', '<', '@', '&', '}', '>', '(', ')', '$', '_', '#', '*', "'", '{', '~']
+
+ORIGIN INPUT :  T-(,h%48>K6':YvjXe8t<Wkk8*|4i8rpa:'P-gB<lJ;d2-,xy-YrM}zL|~fS4E:^+cKU"=;W[d4`Wf15Qdf&QpX|7hUPb.h*"~L=GP_I2g^#0(ygc<-*%gZ_)6(Oj/!>ZrgQXsjBe>=HtwE}tw}N357W9bS,vG+3%`fr-ko<)7QnTdg`JU+QDepF'{Ib=(%HL.1G>w>CrCKJnjNZlx\uu$7gvvH!Qn?WJ+6jTkiR~OI8-YwC~?8i9fo)WIIa0=w+bwh6@Us}ZNhe%EAaQs,#OL[g)K_QMghXQuIt1bd{OlEyE&a/oSM){'TA!H\A%t5+k1!h+r7%%j!l0/~q6%Y~r1c?~!O}p3O&D0+ECfn`g~Vg&A4LKl7%aG@5'Hhn+%D_2et:Y\U,P-3rmNuEds*T0[gF$s_.6zsS/{E=r^O0*h1c)^Ij%)sRo}`UD.?||<`uAfI$YtgAkB%s%ONrBRX\;l70P~E:Dt\bzj0r?ST<K~e%mRl:t4h"
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 6
+Special Char Test Case : Total length -  500
+Normal char len :                        334
+Special char len :                       166
+Special char inside :   ['?', ';', '/', '+', ',', '^', '[', '-', '=', '`', '\\', '%', ':', '"', '.', '!', '|', '<', '@', '&', '}', '>', '(', ')', '$', '#', '_', '*', "'", '{', '~', ']']
+
+ORIGIN INPUT :  =1!wn$5'y6O@=kP8!6hQ'>?K/\W*?j!\C"IIHJ9bMer{5eA)2Q[yRjzS9XgMNU}+8A@FSKz50:bH2\~lawAVy%9)fbVdTQ^/f~k:0wiDu(xm,Y3W7+8ex;@q'UJK..PkF{MlNK{mGcoT4hAH/>m>vjD-=[U!A#>5U|7p9!S])4[xv]cnjG3'6h*!2d[$8JqopQcy48m`nNj,%B'=}]S;r]DN*W%Gei`c,:,$awiAyb.V]E_])&H%F"$OAz;tw(BxGL<^B@,3K`"vq#$5.{klT)g:VC]zM/G8=O1Z(b8t(q`D4&.~O8atPeS[`34&sd'cl8R]HzChSZq>lx-`tG[||'ATfx(U?4l|zYkg'F=BS;p#dG}5jz}PgH8(ejWW4({A_Y%Dayp1!W]B<c*,w9lEA-}A%mu?w+SCGgw#<Jg[DHF(;QjZ2=v$Q18g<avrvwhLjC64<)yY!JVU7+IRcsSn5oU97GJ^sG*+ZO9XyFxmxq{"|cD$IC*L
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 7
+Special Char Test Case : Total length -  500
+Normal char len :                        335
+Special char len :                       165
+Special char inside :   ['?', ';', '+', '/', ',', '^', '[', '-', '=', '`', '\\', '%', ':', '.', '"', '!', '|', '<', '@', '}', '>', '(', ')', '$', '#', '_', '*', "'", '{', '~', ']']
+
+ORIGIN INPUT :  7Z36G?Ilq4#(bbJ$'py*UbJV\3i<W6{fSeC?6@)X0dmB2;37$Wh4f5P9k$k}1a|MLxXl8->ed+j7?R_z^@JHSs<@51=*t+BX2GdGl_us:A/A5BH.8\7Smb_Bvx)%UgfLoTk4@QneW#x.:7,"8)G*kk_K<K)lDLkdyW>W*\_ig-;eYi8fi},wDyhj"2S}Pu=^Tc9uhCzrDmpz'QMs@gAIhv``T?'1OHT((;qGPRoyl"SsSh[@.HL>)dVAeGt{jzm+)OE~$d%,/SpEG>l:j?(D',<%zx!/i9b+YD_XzMz^"q1^0$qH_u/;$kxiITG1wi|0P6p:7-WzFbYX.QB8G`vD~_${R-E\H*-Ym)%2EF|cs=QX/BC9g@cgq'rNl'W9;_m'.nj5.Wl`!Js$:i}\Cta?_7AUua}r`)3KOaI(u\<0>$%k|u/i3"rDA9Ccn@:;,B9?wRy_1r~N_]Np)[0b8ML|9MLQaWFLU=#[DA@VhzgmEyvB6Jr8CQkt
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 8
+Special Char Test Case : Total length -  500
+Normal char len :                        315
+Special char len :                       185
+Special char inside :   ['?', ';', '/', '+', ',', '^', '[', '-', '=', '`', '\\', '%', '.', ':', '"', '!', '|', '<', '@', '&', '}', '>', '(', ')', '$', '_', '#', '*', "'", '{', '~', ']']
+
+ORIGIN INPUT :  0yyjjho,~V/@ui.*{{us:5t^OdPp}I11_-)SAP7q+VPMFgu*S+U_ClGMA@b#G_DPp%XnT61y,Mw_4,+zfH}*e)}[=ZMT<cs4ZRG/*@7!fL~0HOPJ^non?4ZWRqnAZ~;!R250(nmJ#?O_GRg5jRb\Lf#6:TT}`&q*On>bFLT"1_4bz%+v{qc?sSx~,Sxr{7^69Q!E=l1&_<Kjwu5r4Xoiw(x-q.pSsh7@(CM9`-m:q{<+m9C'K1Ugj>~o1m!'6S@a^<B+E`,+>4Ym7\V7r)W,z68qwcKwmlkK|1:*ckXl/*[,VEtG2k@/T!t5{)(avadOu0"mv`:g/vI3#<[}_,nX(mt[!B>g$IB7NeKmmf+CJ-]wXT(dEM6L*nRDy/}J_U-ouByptyK[%o:{rE9?$WL|2!ABC:3:Cm|]/*b|VoLjmS:I6~bav/mj)OT>"H(~5)D*j9<P%]a,4pQj'[dJL(F@hQ</~^5'->TZ:,CRl+,_@=ec.?n/fO"t
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 9
+Special Char Test Case : Total length -  500
+Normal char len :                        310
+Special char len :                       190
+Special char inside :   ['?', ';', '+', '/', ',', '^', '[', '-', '=', '`', '\\', '%', ':', '.', '"', '!', '|', '<', '@', '&', '}', '>', '(', ')', '$', '_', '#', '*', "'", '{', '~', ']']
+
+ORIGIN INPUT :  uP+zqd:*L>[X9glr$_(l{<QKTo'B5xA?qo{','4@$,]43!.Y:|z0rn$g8'%i54wsz"[UxwRY.5e<j2_mvz`"Df-f8|ie<eGAWI?4$-g<UUJ)H|"kN{"=ZHO%x7f{R7>@Gj'sC)sPzR[4!K17%&ufF{1C*s:dU@4'q^qW0W0z{$).|t[v6(d_o<~*9[>I.[fow8DD%iEy)DV)OjAz-u{T2dk(@"b)&~hM,]yBDCJul6]G!Y#lS(}b:Ig]U!tim(@}6g&=%&7s]'N+D431;R/;&XP.d9q$%w`s7^V>`TI0Swbs|1+>[cBU'O\"'JX49vjd#<c#:L`8LB%f-OIHh-]#niA)dy+IU-Q1SD.BSJQY,z1Vd2*YR3Sxt^))W&;B.~q*<~^{hlF1f<Wzp4P|TBWoBxd!aQ8Sw8sZ4sUV[7$NLV:sH}[n|\=Zke8R^,<a,@H}8V`FP]ziEx\'(7=yo)Kf9ZD%xeBO?Wu|05`,b(ejkn&qt"6+x/Ka
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 10
+Special Char Test Case : Total length -  500
+Normal char len :                        314
+Special char len :                       186
+Special char inside :   ['?', ';', '/', '+', ',', '^', '[', '-', '=', '`', '\\', '%', '.', '"', ':', '!', '|', '<', '@', '&', '}', '>', '(', ')', '$', '_', '#', '*', "'", '{', '~', ']']
+
+ORIGIN INPUT :  N{SS`J3sZ9@.ns[^y}PO"LAN=IF,ymuNx8^(_YWQV4FW]d,egJ`zJhB!z8IqhZ\q:LvuKblLI34%}12v^GZ\o[T/;6qtG#@+m@rc/)T])v5RJZ,\1)$d!&$\rrQs:Bl!KvQ[E]6~*@>TF8h-dC(1C7d@}ds}Wk/)^0Nh*P`y]pP}!*:!v=:e^TvDbE.TQi62(tV1V`zK^"{YgZ'RpeB;"SU89i:+ho}v9H][Vf5i]Dy>P3X5J#NB^Lo8/>#@8-1D+H=*AC42l-6&ZA_3&]}P*?{G~q{rk=7-?u<@jiy(meG~UYm1}J*MR\r},o8sX.+Yc+Qs_Gg4l>HO]<*Z%|lyNOn0"g!2/5"oDD[:M0W~k|o!bf~<y#d0?-A|9CB@j#<}WIH|77YvE'@(MabOwQvq|T\5/9POJo*?e5:?z#LS=bC4RL@3f&7)#"EgT'Z{qV4Z~4<~GbT4./9@Y3&x"*ly\_uIn^.\_Dt1x=Sit]6aIKt<RRZST#vR
+Result:
+*********   PASS reject punctuation   *********
+========================================================

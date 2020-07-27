@@ -1,0 +1,1000 @@
+ID : 1
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  1
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 2
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  o
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 3
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['!']
+
+ORIGIN INPUT :  !
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 4
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   [']']
+
+ORIGIN INPUT :  ]
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 5
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  I
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 6
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   [',']
+
+ORIGIN INPUT :  ,
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 7
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  f
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 8
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  r
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 9
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  i
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 10
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  7
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 11
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['}']
+
+ORIGIN INPUT :  }
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 12
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  N
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 13
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['=']
+
+ORIGIN INPUT :  =
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 14
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  X
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 15
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  C
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 16
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  o
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 17
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['-']
+
+ORIGIN INPUT :  -
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 18
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['%']
+
+ORIGIN INPUT :  %
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 19
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  0
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 20
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['|']
+
+ORIGIN INPUT :  |
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 21
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['>']
+
+ORIGIN INPUT :  >
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 22
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  D
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 23
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  b
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 24
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  j
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 25
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  e
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 26
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['#']
+
+ORIGIN INPUT :  #
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 27
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['\\']
+
+ORIGIN INPUT :  \
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 28
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  e
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 29
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  o
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 30
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  b
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 31
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['`']
+
+ORIGIN INPUT :  `
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 32
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  k
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 33
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  w
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 34
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['&']
+
+ORIGIN INPUT :  &
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 35
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  E
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 36
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  r
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 37
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  U
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 38
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  D
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 39
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  B
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 40
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['&']
+
+ORIGIN INPUT :  &
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 41
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  J
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 42
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  K
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 43
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  b
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 44
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['!']
+
+ORIGIN INPUT :  !
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 45
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  g
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 46
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  N
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 47
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['*']
+
+ORIGIN INPUT :  *
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 48
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  G
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 49
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  N
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 50
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  Q
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 51
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  S
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 52
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  T
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 53
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  T
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 54
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  v
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 55
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  G
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 56
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['?']
+
+ORIGIN INPUT :  ?
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 57
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['~']
+
+ORIGIN INPUT :  ~
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 58
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['%']
+
+ORIGIN INPUT :  %
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 59
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  e
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 60
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['_']
+
+ORIGIN INPUT :  _
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 61
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  v
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 62
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  c
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 63
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  2
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 64
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  8
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 65
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['#']
+
+ORIGIN INPUT :  #
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 66
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['}']
+
+ORIGIN INPUT :  }
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 67
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   [']']
+
+ORIGIN INPUT :  ]
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 68
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  L
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 69
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  Y
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 70
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['/']
+
+ORIGIN INPUT :  /
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 71
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['[']
+
+ORIGIN INPUT :  [
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 72
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  t
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 73
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   [';']
+
+ORIGIN INPUT :  ;
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 74
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  c
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 75
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['<']
+
+ORIGIN INPUT :  <
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 76
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['^']
+
+ORIGIN INPUT :  ^
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 77
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  1
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 78
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  W
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 79
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  o
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 80
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['}']
+
+ORIGIN INPUT :  }
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 81
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  O
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 82
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  R
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 83
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   [':']
+
+ORIGIN INPUT :  :
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 84
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  b
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 85
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  U
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 86
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  p
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 87
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  J
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 88
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  Y
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 89
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  s
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 90
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['?']
+
+ORIGIN INPUT :  ?
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 91
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   [']']
+
+ORIGIN INPUT :  ]
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 92
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  W
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 93
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   [')']
+
+ORIGIN INPUT :  )
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 94
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  Z
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 95
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['=']
+
+ORIGIN INPUT :  =
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 96
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['{']
+
+ORIGIN INPUT :  {
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 97
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  f
+Result:
+*********   PASS accept specific character   *********
+========================================================
+ID : 98
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['|']
+
+ORIGIN INPUT :  |
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 99
+Special Char Test Case : Total length -  1
+Normal char len :                        0
+Special char len :                       1
+Special char inside :   ['^']
+
+ORIGIN INPUT :  ^
+Result:
+*********   PASS reject punctuation   *********
+========================================================
+ID : 100
+Special Char Test Case : Total length -  1
+Normal char len :                        1
+Special char len :                       0
+Special char inside :   []
+
+ORIGIN INPUT :  l
+Result:
+*********   PASS accept specific character   *********
+========================================================

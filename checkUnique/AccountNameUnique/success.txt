@@ -1,0 +1,59 @@
+ID: 1
+ORIGIN INPUT: 
+account1
+
+Result : *********   PASS   *********
+=========================================
+ID: 2
+ORIGIN INPUT: 
+account1
+
+Result : *********   PASS - Exist in DB   *********
+=========================================
+ID: 3
+ORIGIN INPUT: 
+account2
+
+Result : *********   PASS   *********
+=========================================
+ID: 4
+ORIGIN INPUT: 
+account2
+
+Result : *********   PASS - Exist in DB   *********
+=========================================
+ID: 5
+ORIGIN INPUT: 
+account3
+
+Result : *********   PASS   *********
+=========================================
+ID: 6
+ORIGIN INPUT: 
+account3
+
+Result : *********   PASS - Exist in DB   *********
+=========================================
+ID: 7
+ORIGIN INPUT: 
+account4
+
+Result : *********   PASS   *********
+=========================================
+ID: 8
+ORIGIN INPUT: 
+account4
+
+Result : *********   PASS - Exist in DB   *********
+=========================================
+ID: 9
+ORIGIN INPUT: 
+account5
+
+Result : *********   PASS   *********
+=========================================
+ID: 10
+ORIGIN INPUT: 
+account5
+Result : *********   PASS - Exist in DB   *********
+=========================================

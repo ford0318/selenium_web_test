@@ -1,0 +1,495 @@
+Failure counts: 1
+ID : 1
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: XDE8C'gD.S,96,@s
+====================================
+Failure counts: 2
+ID : 2
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: WU+A[3S"v*oxi(d@
+====================================
+Failure counts: 3
+ID : 3
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: ~-)%t~}TdXK_]aB2
+====================================
+Failure counts: 4
+ID : 4
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: p~uVVsQ(L!H4k9SK
+====================================
+Failure counts: 5
+ID : 5
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: w{]hP3zQjVa%WAkf
+====================================
+Failure counts: 6
+ID : 6
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: L*lVEX,={>@@D.BS
+====================================
+Failure counts: 7
+ID : 7
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: Tg1p2*VbxV`,)2F9
+====================================
+Failure counts: 8
+ID : 8
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: i!n0zm0'F[ii-D&M
+====================================
+Failure counts: 9
+ID : 9
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: #{;9)6VO'{&=ggg+
+====================================
+Failure counts: 10
+ID : 10
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: AzPoG|sW$3<dUo`y
+====================================
+Failure counts: 11
+ID : 11
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: 0JJZ#}(^!Wz;1w!5
+====================================
+Failure counts: 12
+ID : 12
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: XyFd2/}B]L7Ubv3q
+====================================
+Failure counts: 13
+ID : 13
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: UVE=R^n|6VU(Q1+7
+====================================
+Failure counts: 14
+ID : 14
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: l9_8;jfoD,<oQL<&
+====================================
+Failure counts: 15
+ID : 15
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: L"-bt%k(\bnQ=F/j
+====================================
+Failure counts: 16
+ID : 16
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: 6kZVkAFpeUP\{ZA^
+====================================
+Failure counts: 17
+ID : 17
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: [>kPKm$^:n)mz..=
+====================================
+Failure counts: 18
+ID : 18
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: (4%}xI>@<|>Iv-P<
+====================================
+Failure counts: 19
+ID : 19
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: Db5Ba-`6o4BW1!qx
+====================================
+Failure counts: 20
+ID : 20
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: &c~k}iR-?k(="a,X
+====================================
+Failure counts: 21
+ID : 21
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: `/H2O,VR^h*J+0jb
+====================================
+Failure counts: 22
+ID : 22
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: >y?t0,d;H8Y+&*VD
+====================================
+Failure counts: 23
+ID : 23
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: B&O{E.;dWU|kRk~P
+====================================
+Failure counts: 24
+ID : 24
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: 7yVc5AySJm=D4VK"
+====================================
+Failure counts: 25
+ID : 25
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: ]'F.G#{-48<ipDF(
+====================================
+Failure counts: 26
+ID : 26
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: :qd5'7\]F\tBGXO<
+====================================
+Failure counts: 27
+ID : 27
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: n-%QI&))(f0E.can
+====================================
+Failure counts: 28
+ID : 28
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: M&f(kDl-(f=-N!r'
+====================================
+Failure counts: 29
+ID : 29
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: (:gS2)B9S@VY_oH>
+====================================
+Failure counts: 30
+ID : 30
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: s@WCxr+'9NFI@~6Q
+====================================
+Failure counts: 31
+ID : 31
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: {#!n;Yaep!J8Er%3
+====================================
+Failure counts: 32
+ID : 32
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: _Rrv#B}-+L)Maj_&
+====================================
+Failure counts: 33
+ID : 33
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: 9%K02EGQbt)O5Lg%
+====================================
+Failure counts: 34
+ID : 34
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: LGLn^>oS&kpE$D>'
+====================================
+Failure counts: 35
+ID : 35
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: vfg>d7N;G<(gPfIZ
+====================================
+Failure counts: 36
+ID : 36
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: yRGZ2[!.=~vcMhH-
+====================================
+Failure counts: 37
+ID : 37
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: 9f*Bde*@lNt>{bdz
+====================================
+Failure counts: 38
+ID : 38
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: O0-4JNb)AY5k/IAA
+====================================
+Failure counts: 39
+ID : 39
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: m>`(bNN^%`!2&LVA
+====================================
+Failure counts: 40
+ID : 40
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: \VU0]g'{i]5yfCy/
+====================================
+Failure counts: 41
+ID : 41
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: /,mVB1IQQel:SdEP
+====================================
+Failure counts: 42
+ID : 42
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: R!Wz#%=xdJB"UJpN
+====================================
+Failure counts: 43
+ID : 43
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: rJ~\NG$FT+v:Tf]w
+====================================
+Failure counts: 44
+ID : 44
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: "*wYX(6N3*2sG=ww
+====================================
+Failure counts: 45
+ID : 45
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: PDR2}(Y7CXdA{-k_
+====================================
+Failure counts: 46
+ID : 46
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: =@BX"*YB\\azE(1Q
+====================================
+Failure counts: 47
+ID : 47
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: 3zc-dV(hdFHi\T$r
+====================================
+Failure counts: 48
+ID : 48
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: zFzUM"Vb?NrochE9
+====================================
+Failure counts: 49
+ID : 49
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: no"1qHg/]wFhL&t-
+====================================
+Failure counts: 50
+ID : 51
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: AT7!_diG916kh#.+
+====================================
+Failure counts: 51
+ID : 52
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: |s5naeVD[/.fn=h~
+====================================
+Failure counts: 52
+ID : 53
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: #7`]UKLSP~~.G%S3
+====================================
+Failure counts: 53
+ID : 54
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: H^rcH9b<)&"tI4BO
+====================================
+Failure counts: 54
+ID : 55
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: #@Q(?9BTzw.fW3#C
+====================================
+Failure counts: 55
+ID : 56
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: q2Q.z,Ca[(Koh/fW
+====================================
+Failure counts: 56
+ID : 57
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: Y=3O^G~X|Jf-iEoh
+====================================
+Failure counts: 57
+ID : 58
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: 1*P5a<tN[_nR!l85
+====================================
+Failure counts: 58
+ID : 59
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: _#}1Aq1i$="9B?Wu
+====================================
+Failure counts: 59
+ID : 60
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: A_LM@l(_f;9q43^p
+====================================
+Failure counts: 60
+ID : 61
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: gzA=Y"-_dQ3&h_YV
+====================================
+Failure counts: 61
+ID : 62
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: I9wJQuJSgzH}D2[C
+====================================
+Failure counts: 62
+ID : 63
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: b?QXev,{IcnyAO\Q
+====================================
+Failure counts: 63
+ID : 64
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: !jZl#v"$!8lb,N*)
+====================================
+Failure counts: 64
+ID : 65
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: ]I;R5A[;;[CJ%c"l
+====================================
+Failure counts: 65
+ID : 66
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: 2cS+Sbr|W(<)c3L)
+====================================
+Failure counts: 66
+ID : 67
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: mnP`/YFjP`q?)Tx`
+====================================
+Failure counts: 67
+ID : 68
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: -8"6UAH'0mxohGe"
+====================================
+Failure counts: 68
+ID : 69
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: -id:BN=Br5,~r"k7
+====================================
+Failure counts: 69
+ID : 70
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: 25NCtn{v)U_FMt1y
+====================================
+Failure counts: 70
+ID : 71
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: 4<'jJ5O4c>Za`ZOF
+====================================
+Failure counts: 71
+ID : 72
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: R[a\cf.OC/Whrje|
+====================================
+Failure counts: 72
+ID : 73
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: pO5g#CYCf52m>[5}
+====================================
+Failure counts: 73
+ID : 74
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: ~}S8Gd_A<Y-pMh-k
+====================================
+Failure counts: 74
+ID : 75
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: T+_2hU&b81Zi^;}7
+====================================
+Failure counts: 75
+ID : 76
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: \[9[KLD{[q\icm<a
+====================================
+Failure counts: 76
+ID : 77
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: ZRS)NW="pb/<t@#l
+====================================
+Failure counts: 77
+ID : 78
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: <;Ri1p{ZOM.`za7j
+====================================
+Failure counts: 78
+ID : 79
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: *AVD,d|t&,pof\s-
+====================================
+Failure counts: 79
+ID : 80
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: t<1)/:+S8(knlm0u
+====================================
+Failure counts: 80
+ID : 81
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: opp$Eg[/2)~2Y^-G
+====================================
+Failure counts: 81
+ID : 82
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: uBnL`%/W_:-I1=>M
+====================================
+Failure counts: 82
+ID : 83
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: 4C^cr!gP`6O5J/_y
+====================================
+Failure counts: 83
+ID : 84
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: uA`u!QdP[p##eUDC
+====================================
+Failure counts: 84
+ID : 85
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: {FJFU:7kZ3sObz.f
+====================================
+Failure counts: 85
+ID : 86
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: D:];IRDt[g&b@?C$
+====================================
+Failure counts: 86
+ID : 87
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: Rw+<NgU>d$pcv9w~
+====================================
+Failure counts: 87
+ID : 88
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: n78I"q:"m;giN+l-
+====================================
+Failure counts: 88
+ID : 89
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: GcqM9wt;}Yf)\WR0
+====================================
+Failure counts: 89
+ID : 90
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: .HzPdn?/_HqK1Oi%
+====================================
+Failure counts: 90
+ID : 91
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: Cf6ysNdnOQWIRRn;
+====================================
+Failure counts: 91
+ID : 92
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: AR~qzE)^EB[6WomW
+====================================
+Failure counts: 92
+ID : 93
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: e1YSnrUB_{QRRS+g
+====================================
+Failure counts: 93
+ID : 94
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: OH{{'J;*b0NUk%JV
+====================================
+Failure counts: 94
+ID : 95
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: Bn@:lNBg'I>DP"6?
+====================================
+Failure counts: 95
+ID : 96
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: a;]*uHkW5:&gof;h
+====================================
+Failure counts: 96
+ID : 97
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: dcS7gp@HE],$>Xmj
+====================================
+Failure counts: 97
+ID : 98
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: yqj~/T4D$8p$1we3
+====================================
+Failure counts: 98
+ID : 99
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: X#VMAw}2\BxLSZr1
+====================================
+Failure counts: 99
+ID : 100
+Alert Message : You have entered an invalid sensititve! sensititve only English or numbers or _+/=
+ORIGIN INPUT: p=gL{-;\RxNR|IFq
+====================================

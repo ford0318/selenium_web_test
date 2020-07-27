@@ -1,0 +1,200 @@
+LENGTH : 0
+line :1
+LENGTH : 0
+line :o
+LENGTH : 1
+line :!
+LENGTH : 0
+line :]
+LENGTH : 0
+line :I
+LENGTH : 1
+line :,
+LENGTH : 0
+line :f
+LENGTH : 0
+line :r
+LENGTH : 0
+line :i
+LENGTH : 0
+line :7
+LENGTH : 1
+line :}
+LENGTH : 0
+line :N
+LENGTH : 1
+line :=
+LENGTH : 0
+line :X
+LENGTH : 0
+line :C
+LENGTH : 0
+line :o
+LENGTH : 0
+line :-
+LENGTH : 1
+line :%
+LENGTH : 0
+line :0
+LENGTH : 1
+line :|
+LENGTH : 1
+line :>
+LENGTH : 0
+line :D
+LENGTH : 0
+line :b
+LENGTH : 0
+line :j
+LENGTH : 0
+line :e
+LENGTH : 1
+line :#
+LENGTH : 1
+line :\
+LENGTH : 0
+line :e
+LENGTH : 0
+line :o
+LENGTH : 0
+line :b
+LENGTH : 1
+line :`
+LENGTH : 0
+line :k
+LENGTH : 0
+line :w
+LENGTH : 1
+line :&
+LENGTH : 0
+line :E
+LENGTH : 0
+line :r
+LENGTH : 0
+line :U
+LENGTH : 0
+line :D
+LENGTH : 0
+line :B
+LENGTH : 1
+line :&
+LENGTH : 0
+line :J
+LENGTH : 0
+line :K
+LENGTH : 0
+line :b
+LENGTH : 1
+line :!
+LENGTH : 0
+line :g
+LENGTH : 0
+line :N
+LENGTH : 1
+line :*
+LENGTH : 0
+line :G
+LENGTH : 0
+line :N
+LENGTH : 0
+line :Q
+LENGTH : 0
+line :S
+LENGTH : 0
+line :T
+LENGTH : 0
+line :T
+LENGTH : 0
+line :v
+LENGTH : 0
+line :G
+LENGTH : 1
+line :?
+LENGTH : 1
+line :~
+LENGTH : 1
+line :%
+LENGTH : 0
+line :e
+LENGTH : 0
+line :_
+LENGTH : 0
+line :v
+LENGTH : 0
+line :c
+LENGTH : 0
+line :2
+LENGTH : 0
+line :8
+LENGTH : 1
+line :#
+LENGTH : 1
+line :}
+LENGTH : 0
+line :]
+LENGTH : 0
+line :L
+LENGTH : 0
+line :Y
+LENGTH : 1
+line :/
+LENGTH : 0
+line :[
+LENGTH : 0
+line :t
+LENGTH : 1
+line :;
+LENGTH : 0
+line :c
+LENGTH : 1
+line :<
+LENGTH : 1
+line :^
+LENGTH : 0
+line :1
+LENGTH : 0
+line :W
+LENGTH : 0
+line :o
+LENGTH : 1
+line :}
+LENGTH : 0
+line :O
+LENGTH : 0
+line :R
+LENGTH : 1
+line ::
+LENGTH : 0
+line :b
+LENGTH : 0
+line :U
+LENGTH : 0
+line :p
+LENGTH : 0
+line :J
+LENGTH : 0
+line :Y
+LENGTH : 0
+line :s
+LENGTH : 1
+line :?
+LENGTH : 0
+line :]
+LENGTH : 0
+line :W
+LENGTH : 0
+line :)
+LENGTH : 0
+line :Z
+LENGTH : 1
+line :=
+LENGTH : 1
+line :{
+LENGTH : 0
+line :f
+LENGTH : 1
+line :|
+LENGTH : 1
+line :^
+LENGTH : 0
+line :l

@@ -1,0 +1,500 @@
+ID: 1
+ORIGIN INPUT: 
+XDE8C'gD.S,96,@s
+Result : *********   Error   *********
+=========================================
+ID: 2
+ORIGIN INPUT: 
+WU+A[3S"v*oxi(d@
+Result : *********   Error   *********
+=========================================
+ID: 3
+ORIGIN INPUT: 
+~-)%t~}TdXK_]aB2
+Result : *********   Error   *********
+=========================================
+ID: 4
+ORIGIN INPUT: 
+p~uVVsQ(L!H4k9SK
+Result : *********   Error   *********
+=========================================
+ID: 5
+ORIGIN INPUT: 
+w{]hP3zQjVa%WAkf
+Result : *********   Error   *********
+=========================================
+ID: 6
+ORIGIN INPUT: 
+L*lVEX,={>@@D.BS
+Result : *********   Error   *********
+=========================================
+ID: 7
+ORIGIN INPUT: 
+Tg1p2*VbxV`,)2F9
+Result : *********   Error   *********
+=========================================
+ID: 8
+ORIGIN INPUT: 
+i!n0zm0'F[ii-D&M
+Result : *********   Error   *********
+=========================================
+ID: 9
+ORIGIN INPUT: 
+#{;9)6VO'{&=ggg+
+Result : *********   Error   *********
+=========================================
+ID: 10
+ORIGIN INPUT: 
+AzPoG|sW$3<dUo`y
+Result : *********   Error   *********
+=========================================
+ID: 11
+ORIGIN INPUT: 
+0JJZ#}(^!Wz;1w!5
+Result : *********   Error   *********
+=========================================
+ID: 12
+ORIGIN INPUT: 
+XyFd2/}B]L7Ubv3q
+Result : *********   Error   *********
+=========================================
+ID: 13
+ORIGIN INPUT: 
+UVE=R^n|6VU(Q1+7
+Result : *********   Error   *********
+=========================================
+ID: 14
+ORIGIN INPUT: 
+l9_8;jfoD,<oQL<&
+Result : *********   Error   *********
+=========================================
+ID: 15
+ORIGIN INPUT: 
+L"-bt%k(\bnQ=F/j
+Result : *********   Error   *********
+=========================================
+ID: 16
+ORIGIN INPUT: 
+6kZVkAFpeUP\{ZA^
+Result : *********   Error   *********
+=========================================
+ID: 17
+ORIGIN INPUT: 
+[>kPKm$^:n)mz..=
+Result : *********   Error   *********
+=========================================
+ID: 18
+ORIGIN INPUT: 
+(4%}xI>@<|>Iv-P<
+Result : *********   Error   *********
+=========================================
+ID: 19
+ORIGIN INPUT: 
+Db5Ba-`6o4BW1!qx
+Result : *********   Error   *********
+=========================================
+ID: 20
+ORIGIN INPUT: 
+&c~k}iR-?k(="a,X
+Result : *********   Error   *********
+=========================================
+ID: 21
+ORIGIN INPUT: 
+`/H2O,VR^h*J+0jb
+Result : *********   Error   *********
+=========================================
+ID: 22
+ORIGIN INPUT: 
+>y?t0,d;H8Y+&*VD
+Result : *********   Error   *********
+=========================================
+ID: 23
+ORIGIN INPUT: 
+B&O{E.;dWU|kRk~P
+Result : *********   Error   *********
+=========================================
+ID: 24
+ORIGIN INPUT: 
+7yVc5AySJm=D4VK"
+Result : *********   Error   *********
+=========================================
+ID: 25
+ORIGIN INPUT: 
+]'F.G#{-48<ipDF(
+Result : *********   Error   *********
+=========================================
+ID: 26
+ORIGIN INPUT: 
+:qd5'7\]F\tBGXO<
+Result : *********   Error   *********
+=========================================
+ID: 27
+ORIGIN INPUT: 
+n-%QI&))(f0E.can
+Result : *********   Error   *********
+=========================================
+ID: 28
+ORIGIN INPUT: 
+M&f(kDl-(f=-N!r'
+Result : *********   Error   *********
+=========================================
+ID: 29
+ORIGIN INPUT: 
+(:gS2)B9S@VY_oH>
+Result : *********   Error   *********
+=========================================
+ID: 30
+ORIGIN INPUT: 
+s@WCxr+'9NFI@~6Q
+Result : *********   Error   *********
+=========================================
+ID: 31
+ORIGIN INPUT: 
+{#!n;Yaep!J8Er%3
+Result : *********   Error   *********
+=========================================
+ID: 32
+ORIGIN INPUT: 
+_Rrv#B}-+L)Maj_&
+Result : *********   Error   *********
+=========================================
+ID: 33
+ORIGIN INPUT: 
+9%K02EGQbt)O5Lg%
+Result : *********   Error   *********
+=========================================
+ID: 34
+ORIGIN INPUT: 
+LGLn^>oS&kpE$D>'
+Result : *********   Error   *********
+=========================================
+ID: 35
+ORIGIN INPUT: 
+vfg>d7N;G<(gPfIZ
+Result : *********   Error   *********
+=========================================
+ID: 36
+ORIGIN INPUT: 
+yRGZ2[!.=~vcMhH-
+Result : *********   Error   *********
+=========================================
+ID: 37
+ORIGIN INPUT: 
+9f*Bde*@lNt>{bdz
+Result : *********   Error   *********
+=========================================
+ID: 38
+ORIGIN INPUT: 
+O0-4JNb)AY5k/IAA
+Result : *********   Error   *********
+=========================================
+ID: 39
+ORIGIN INPUT: 
+m>`(bNN^%`!2&LVA
+Result : *********   Error   *********
+=========================================
+ID: 40
+ORIGIN INPUT: 
+\VU0]g'{i]5yfCy/
+Result : *********   Error   *********
+=========================================
+ID: 41
+ORIGIN INPUT: 
+/,mVB1IQQel:SdEP
+Result : *********   Error   *********
+=========================================
+ID: 42
+ORIGIN INPUT: 
+R!Wz#%=xdJB"UJpN
+Result : *********   Error   *********
+=========================================
+ID: 43
+ORIGIN INPUT: 
+rJ~\NG$FT+v:Tf]w
+Result : *********   Error   *********
+=========================================
+ID: 44
+ORIGIN INPUT: 
+"*wYX(6N3*2sG=ww
+Result : *********   Error   *********
+=========================================
+ID: 45
+ORIGIN INPUT: 
+PDR2}(Y7CXdA{-k_
+Result : *********   Error   *********
+=========================================
+ID: 46
+ORIGIN INPUT: 
+=@BX"*YB\\azE(1Q
+Result : *********   Error   *********
+=========================================
+ID: 47
+ORIGIN INPUT: 
+3zc-dV(hdFHi\T$r
+Result : *********   Error   *********
+=========================================
+ID: 48
+ORIGIN INPUT: 
+zFzUM"Vb?NrochE9
+Result : *********   Error   *********
+=========================================
+ID: 49
+ORIGIN INPUT: 
+no"1qHg/]wFhL&t-
+Result : *********   Error   *********
+=========================================
+ID: 50
+ORIGIN INPUT: 
+2VDHT0F_H9BRxWdt
+Result : *********   PASS   *********
+=========================================
+ID: 51
+ORIGIN INPUT: 
+AT7!_diG916kh#.+
+Result : *********   Error   *********
+=========================================
+ID: 52
+ORIGIN INPUT: 
+|s5naeVD[/.fn=h~
+Result : *********   Error   *********
+=========================================
+ID: 53
+ORIGIN INPUT: 
+#7`]UKLSP~~.G%S3
+Result : *********   Error   *********
+=========================================
+ID: 54
+ORIGIN INPUT: 
+H^rcH9b<)&"tI4BO
+Result : *********   Error   *********
+=========================================
+ID: 55
+ORIGIN INPUT: 
+#@Q(?9BTzw.fW3#C
+Result : *********   Error   *********
+=========================================
+ID: 56
+ORIGIN INPUT: 
+q2Q.z,Ca[(Koh/fW
+Result : *********   Error   *********
+=========================================
+ID: 57
+ORIGIN INPUT: 
+Y=3O^G~X|Jf-iEoh
+Result : *********   Error   *********
+=========================================
+ID: 58
+ORIGIN INPUT: 
+1*P5a<tN[_nR!l85
+Result : *********   Error   *********
+=========================================
+ID: 59
+ORIGIN INPUT: 
+_#}1Aq1i$="9B?Wu
+Result : *********   Error   *********
+=========================================
+ID: 60
+ORIGIN INPUT: 
+A_LM@l(_f;9q43^p
+Result : *********   Error   *********
+=========================================
+ID: 61
+ORIGIN INPUT: 
+gzA=Y"-_dQ3&h_YV
+Result : *********   Error   *********
+=========================================
+ID: 62
+ORIGIN INPUT: 
+I9wJQuJSgzH}D2[C
+Result : *********   Error   *********
+=========================================
+ID: 63
+ORIGIN INPUT: 
+b?QXev,{IcnyAO\Q
+Result : *********   Error   *********
+=========================================
+ID: 64
+ORIGIN INPUT: 
+!jZl#v"$!8lb,N*)
+Result : *********   Error   *********
+=========================================
+ID: 65
+ORIGIN INPUT: 
+]I;R5A[;;[CJ%c"l
+Result : *********   Error   *********
+=========================================
+ID: 66
+ORIGIN INPUT: 
+2cS+Sbr|W(<)c3L)
+Result : *********   Error   *********
+=========================================
+ID: 67
+ORIGIN INPUT: 
+mnP`/YFjP`q?)Tx`
+Result : *********   Error   *********
+=========================================
+ID: 68
+ORIGIN INPUT: 
+-8"6UAH'0mxohGe"
+Result : *********   Error   *********
+=========================================
+ID: 69
+ORIGIN INPUT: 
+-id:BN=Br5,~r"k7
+Result : *********   Error   *********
+=========================================
+ID: 70
+ORIGIN INPUT: 
+25NCtn{v)U_FMt1y
+Result : *********   Error   *********
+=========================================
+ID: 71
+ORIGIN INPUT: 
+4<'jJ5O4c>Za`ZOF
+Result : *********   Error   *********
+=========================================
+ID: 72
+ORIGIN INPUT: 
+R[a\cf.OC/Whrje|
+Result : *********   Error   *********
+=========================================
+ID: 73
+ORIGIN INPUT: 
+pO5g#CYCf52m>[5}
+Result : *********   Error   *********
+=========================================
+ID: 74
+ORIGIN INPUT: 
+~}S8Gd_A<Y-pMh-k
+Result : *********   Error   *********
+=========================================
+ID: 75
+ORIGIN INPUT: 
+T+_2hU&b81Zi^;}7
+Result : *********   Error   *********
+=========================================
+ID: 76
+ORIGIN INPUT: 
+\[9[KLD{[q\icm<a
+Result : *********   Error   *********
+=========================================
+ID: 77
+ORIGIN INPUT: 
+ZRS)NW="pb/<t@#l
+Result : *********   Error   *********
+=========================================
+ID: 78
+ORIGIN INPUT: 
+<;Ri1p{ZOM.`za7j
+Result : *********   Error   *********
+=========================================
+ID: 79
+ORIGIN INPUT: 
+*AVD,d|t&,pof\s-
+Result : *********   Error   *********
+=========================================
+ID: 80
+ORIGIN INPUT: 
+t<1)/:+S8(knlm0u
+Result : *********   Error   *********
+=========================================
+ID: 81
+ORIGIN INPUT: 
+opp$Eg[/2)~2Y^-G
+Result : *********   Error   *********
+=========================================
+ID: 82
+ORIGIN INPUT: 
+uBnL`%/W_:-I1=>M
+Result : *********   Error   *********
+=========================================
+ID: 83
+ORIGIN INPUT: 
+4C^cr!gP`6O5J/_y
+Result : *********   Error   *********
+=========================================
+ID: 84
+ORIGIN INPUT: 
+uA`u!QdP[p##eUDC
+Result : *********   Error   *********
+=========================================
+ID: 85
+ORIGIN INPUT: 
+{FJFU:7kZ3sObz.f
+Result : *********   Error   *********
+=========================================
+ID: 86
+ORIGIN INPUT: 
+D:];IRDt[g&b@?C$
+Result : *********   Error   *********
+=========================================
+ID: 87
+ORIGIN INPUT: 
+Rw+<NgU>d$pcv9w~
+Result : *********   Error   *********
+=========================================
+ID: 88
+ORIGIN INPUT: 
+n78I"q:"m;giN+l-
+Result : *********   Error   *********
+=========================================
+ID: 89
+ORIGIN INPUT: 
+GcqM9wt;}Yf)\WR0
+Result : *********   Error   *********
+=========================================
+ID: 90
+ORIGIN INPUT: 
+.HzPdn?/_HqK1Oi%
+Result : *********   Error   *********
+=========================================
+ID: 91
+ORIGIN INPUT: 
+Cf6ysNdnOQWIRRn;
+Result : *********   Error   *********
+=========================================
+ID: 92
+ORIGIN INPUT: 
+AR~qzE)^EB[6WomW
+Result : *********   Error   *********
+=========================================
+ID: 93
+ORIGIN INPUT: 
+e1YSnrUB_{QRRS+g
+Result : *********   Error   *********
+=========================================
+ID: 94
+ORIGIN INPUT: 
+OH{{'J;*b0NUk%JV
+Result : *********   Error   *********
+=========================================
+ID: 95
+ORIGIN INPUT: 
+Bn@:lNBg'I>DP"6?
+Result : *********   Error   *********
+=========================================
+ID: 96
+ORIGIN INPUT: 
+a;]*uHkW5:&gof;h
+Result : *********   Error   *********
+=========================================
+ID: 97
+ORIGIN INPUT: 
+dcS7gp@HE],$>Xmj
+Result : *********   Error   *********
+=========================================
+ID: 98
+ORIGIN INPUT: 
+yqj~/T4D$8p$1we3
+Result : *********   Error   *********
+=========================================
+ID: 99
+ORIGIN INPUT: 
+X#VMAw}2\BxLSZr1
+Result : *********   Error   *********
+=========================================
+ID: 100
+ORIGIN INPUT: 
+p=gL{-;\RxNR|IFq
+Result : *********   Error   *********
+=========================================

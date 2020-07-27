@@ -1,0 +1,303 @@
+LENGTH : 0
+line :(
+
+LENGTH : 1
+line :'
+
+LENGTH : 0
+line :]
+
+LENGTH : 1
+line :>
+
+LENGTH : 0
+line :H
+
+LENGTH : 0
+line :h
+
+LENGTH : 0
+line :H
+
+LENGTH : 0
+line :)
+
+LENGTH : 0
+line :s
+
+LENGTH : 1
+line :+
+
+LENGTH : 1
+line :~
+
+LENGTH : 0
+line :(
+
+LENGTH : 0
+line :4
+
+LENGTH : 1
+line :\
+
+LENGTH : 0
+line :5
+
+LENGTH : 0
+line :H
+
+LENGTH : 0
+line :[
+
+LENGTH : 0
+line :x
+
+LENGTH : 1
+line :%
+
+LENGTH : 0
+line :d
+
+LENGTH : 1
+line :|
+
+LENGTH : 0
+line :R
+
+LENGTH : 0
+line :v
+
+LENGTH : 1
+line :,
+
+LENGTH : 1
+line :$
+
+LENGTH : 1
+line :&
+
+LENGTH : 0
+line :0
+
+LENGTH : 0
+line :5
+
+LENGTH : 1
+line :#
+
+LENGTH : 0
+line :E
+
+LENGTH : 0
+line :t
+
+LENGTH : 0
+line :g
+
+LENGTH : 0
+line :m
+
+LENGTH : 0
+line :f
+
+LENGTH : 0
+line :P
+
+LENGTH : 0
+line :4
+
+LENGTH : 1
+line :%
+
+LENGTH : 0
+line :k
+
+LENGTH : 1
+line :#
+
+LENGTH : 0
+line :3
+
+LENGTH : 0
+line :g
+
+LENGTH : 0
+line :O
+
+LENGTH : 1
+line :;
+
+LENGTH : 1
+line :,
+
+LENGTH : 1
+line :}
+
+LENGTH : 1
+line :>
+
+LENGTH : 1
+line :?
+
+LENGTH : 1
+line :"
+
+LENGTH : 1
+line :&
+
+LENGTH : 0
+line :v
+
+LENGTH : 0
+line :[
+
+LENGTH : 0
+line :Z
+
+LENGTH : 0
+line :m
+
+LENGTH : 0
+line :s
+
+LENGTH : 0
+line :s
+
+LENGTH : 0
+line :Q
+
+LENGTH : 0
+line :i
+
+LENGTH : 0
+line :z
+
+LENGTH : 1
+line :+
+
+LENGTH : 0
+line :x
+
+LENGTH : 0
+line :w
+
+LENGTH : 1
+line :!
+
+LENGTH : 0
+line :G
+
+LENGTH : 0
+line :J
+
+LENGTH : 0
+line :V
+
+LENGTH : 0
+line :C
+
+LENGTH : 0
+line :B
+
+LENGTH : 0
+line :o
+
+LENGTH : 0
+line :G
+
+LENGTH : 1
+line :=
+
+LENGTH : 1
+line :,
+
+LENGTH : 1
+line :@
+
+LENGTH : 0
+line :z
+
+LENGTH : 1
+line :<
+
+LENGTH : 0
+line :F
+
+LENGTH : 0
+line :.
+
+LENGTH : 0
+line :u
+
+LENGTH : 0
+line :9
+
+LENGTH : 1
+line :/
+
+LENGTH : 0
+line :U
+
+LENGTH : 1
+line :?
+
+LENGTH : 0
+line :j
+
+LENGTH : 0
+line :F
+
+LENGTH : 0
+line :j
+
+LENGTH : 1
+line :$
+
+LENGTH : 0
+line :S
+
+LENGTH : 0
+line :Z
+
+LENGTH : 0
+line :Y
+
+LENGTH : 0
+line :q
+
+LENGTH : 1
+line :+
+
+LENGTH : 0
+line :]
+
+LENGTH : 0
+line :6
+
+LENGTH : 0
+line :R
+
+LENGTH : 0
+line :p
+
+LENGTH : 0
+line :K
+
+LENGTH : 0
+line :_
+
+LENGTH : 0
+line :o
+
+LENGTH : 0
+line :e
+
+LENGTH : 0
+line :X
+
+LENGTH : 1
+line :,
+
+LENGTH : 0
+line :K
+

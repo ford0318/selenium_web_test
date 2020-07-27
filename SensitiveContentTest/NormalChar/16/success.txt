@@ -1,0 +1,400 @@
+ID: 1
+ORIGIN INPUT: 
+g5gaPlplWuDn5ldH
+=========================================
+ID: 2
+ORIGIN INPUT: 
+FqcqVoLec2me6Tzj
+=========================================
+ID: 3
+ORIGIN INPUT: 
+BwKMn3neNBbTCQNA
+=========================================
+ID: 4
+ORIGIN INPUT: 
+z9OoRgudRWY3Vcvt
+=========================================
+ID: 5
+ORIGIN INPUT: 
+SO4dmQQcR94ZxVho
+=========================================
+ID: 6
+ORIGIN INPUT: 
+Wg4gEHUkFEmCOwgw
+=========================================
+ID: 7
+ORIGIN INPUT: 
+7SEcpp00weaOENTo
+=========================================
+ID: 8
+ORIGIN INPUT: 
+m7ZwAk9SITnAW6eo
+=========================================
+ID: 9
+ORIGIN INPUT: 
+xWC6WsmlRyjO0kg9
+=========================================
+ID: 10
+ORIGIN INPUT: 
+T30ORZmOKm0dwOsd
+=========================================
+ID: 11
+ORIGIN INPUT: 
+Rf1nkCgQvRt88GcH
+=========================================
+ID: 12
+ORIGIN INPUT: 
+qhurXS67Cq4LufI1
+=========================================
+ID: 13
+ORIGIN INPUT: 
+rUJG7xp4Yuyp8hEx
+=========================================
+ID: 14
+ORIGIN INPUT: 
+idHUuAef991eLVpU
+=========================================
+ID: 15
+ORIGIN INPUT: 
+ftsiU56Za6cVTZMD
+=========================================
+ID: 16
+ORIGIN INPUT: 
+EEqq4Xf6CIzGiUTH
+=========================================
+ID: 17
+ORIGIN INPUT: 
+r2jUl6y8QfOu1fd5
+=========================================
+ID: 18
+ORIGIN INPUT: 
+zoFwvXQcLxvKs1Jt
+=========================================
+ID: 19
+ORIGIN INPUT: 
+mlUv17a8ddJxgxmh
+=========================================
+ID: 20
+ORIGIN INPUT: 
+Um9DKgJBL8fByaF7
+=========================================
+ID: 21
+ORIGIN INPUT: 
+z3jeYvASMdzMshGc
+=========================================
+ID: 22
+ORIGIN INPUT: 
+7TmxYE9jMjNyWJTf
+=========================================
+ID: 23
+ORIGIN INPUT: 
+jSSDOXsLcfcqVZvV
+=========================================
+ID: 24
+ORIGIN INPUT: 
+S4dH7JHKjxjWwSMv
+=========================================
+ID: 25
+ORIGIN INPUT: 
+Y5czjhYDudmNbUCQ
+=========================================
+ID: 26
+ORIGIN INPUT: 
+Xkf79W1SjPdxc5eF
+=========================================
+ID: 27
+ORIGIN INPUT: 
+Reg01M0iXtJq32Ny
+=========================================
+ID: 28
+ORIGIN INPUT: 
+kNKU3gNbduclqnR1
+=========================================
+ID: 29
+ORIGIN INPUT: 
+JL8mO5bEAtSb7phf
+=========================================
+ID: 30
+ORIGIN INPUT: 
+eYFbveesnu4fiBTa
+=========================================
+ID: 31
+ORIGIN INPUT: 
+W5A4bk6FhcEx2iiC
+=========================================
+ID: 32
+ORIGIN INPUT: 
+UxHxAnN1M72NP1mZ
+=========================================
+ID: 33
+ORIGIN INPUT: 
+WzIwUgBBldz6MefV
+=========================================
+ID: 34
+ORIGIN INPUT: 
+nV1UMEN1ldBMLr5D
+=========================================
+ID: 35
+ORIGIN INPUT: 
+tLChIR2QKWjRbW1v
+=========================================
+ID: 36
+ORIGIN INPUT: 
+B7RkgMbfNZF7vfwt
+=========================================
+ID: 37
+ORIGIN INPUT: 
+e4RTKg85qWDO7RwA
+=========================================
+ID: 38
+ORIGIN INPUT: 
+bkkkgEBZoP1okp7E
+=========================================
+ID: 39
+ORIGIN INPUT: 
+4Kl2RVSVPMEufO3t
+=========================================
+ID: 40
+ORIGIN INPUT: 
+qSeh1rlV0myvwSlJ
+=========================================
+ID: 41
+ORIGIN INPUT: 
+CVQ3NK15akEVBtYJ
+=========================================
+ID: 42
+ORIGIN INPUT: 
+26zcEgx7ot5V4ESX
+=========================================
+ID: 43
+ORIGIN INPUT: 
+a3NzhDsDIoZzLo8H
+=========================================
+ID: 44
+ORIGIN INPUT: 
+vj2ftWu9XwE1o0L0
+=========================================
+ID: 45
+ORIGIN INPUT: 
+AhkBbXsyKIbiHIoL
+=========================================
+ID: 46
+ORIGIN INPUT: 
+pVJqjxrI9ngFOdAP
+=========================================
+ID: 47
+ORIGIN INPUT: 
+tdBSLfmiUobRoAGU
+=========================================
+ID: 48
+ORIGIN INPUT: 
+3tn9BtkKJtbD2ThE
+=========================================
+ID: 49
+ORIGIN INPUT: 
+yW3ZCJldsULNvs9y
+=========================================
+ID: 50
+ORIGIN INPUT: 
+SXA9RwjqR6nwMq78
+=========================================
+ID: 51
+ORIGIN INPUT: 
+E7kVwD6ERnAYwB0W
+=========================================
+ID: 52
+ORIGIN INPUT: 
+6OX60qGpL4BWkAMk
+=========================================
+ID: 53
+ORIGIN INPUT: 
+5t0fDrcyW3mt2m2z
+=========================================
+ID: 54
+ORIGIN INPUT: 
+GPGpMnb8w3txle8v
+=========================================
+ID: 55
+ORIGIN INPUT: 
+ZvTJOJo1wISc8ye0
+=========================================
+ID: 56
+ORIGIN INPUT: 
+ILphcPHrNVFnBgRG
+=========================================
+ID: 57
+ORIGIN INPUT: 
+n7Y76stNMsWkFWIp
+=========================================
+ID: 58
+ORIGIN INPUT: 
+iH1xEFhcO9GDhzUm
+=========================================
+ID: 59
+ORIGIN INPUT: 
+XzOxPI8taRWrlaOQ
+=========================================
+ID: 60
+ORIGIN INPUT: 
+p1GHWDKPpqd2WjSe
+=========================================
+ID: 61
+ORIGIN INPUT: 
+O7o2oU4nKaNYRfnm
+=========================================
+ID: 62
+ORIGIN INPUT: 
+104njuSEvhi89GeM
+=========================================
+ID: 63
+ORIGIN INPUT: 
+eklgK2u3kBsp49SS
+=========================================
+ID: 64
+ORIGIN INPUT: 
+XHveLJ0kMMXzpjDC
+=========================================
+ID: 65
+ORIGIN INPUT: 
+ECxf0fcUVKr51YUm
+=========================================
+ID: 66
+ORIGIN INPUT: 
+9VPKIcSrVd0VdKce
+=========================================
+ID: 67
+ORIGIN INPUT: 
+2ucoKRNkGl0elPlH
+=========================================
+ID: 68
+ORIGIN INPUT: 
+yagj96vntFMkoscX
+=========================================
+ID: 69
+ORIGIN INPUT: 
+0SKcnYdQ8ZNjJ3l8
+=========================================
+ID: 70
+ORIGIN INPUT: 
+lhpLoKNiObHMJ7kj
+=========================================
+ID: 71
+ORIGIN INPUT: 
+Z8xF5ySl9hsYsrME
+=========================================
+ID: 72
+ORIGIN INPUT: 
+Ztz06IExm1DC5xgo
+=========================================
+ID: 73
+ORIGIN INPUT: 
+pCSYK73eFCU37hzh
+=========================================
+ID: 74
+ORIGIN INPUT: 
+QtvY4ADjzl76YVYS
+=========================================
+ID: 75
+ORIGIN INPUT: 
+jX9jHmztv0W5TbGr
+=========================================
+ID: 76
+ORIGIN INPUT: 
+G3XZCK0HMCON7R0x
+=========================================
+ID: 77
+ORIGIN INPUT: 
+ZgPU0Cmw1flPYAam
+=========================================
+ID: 78
+ORIGIN INPUT: 
+aCHdase4shxBVjSX
+=========================================
+ID: 79
+ORIGIN INPUT: 
+IjSgPo0bdteXSDBs
+=========================================
+ID: 80
+ORIGIN INPUT: 
+JeejwghJXF7oNGO2
+=========================================
+ID: 81
+ORIGIN INPUT: 
+JLNdEdjQjoyZHNTs
+=========================================
+ID: 82
+ORIGIN INPUT: 
+A88mMr9tbjeJtlU5
+=========================================
+ID: 83
+ORIGIN INPUT: 
+BpenGNxsyclEttTt
+=========================================
+ID: 84
+ORIGIN INPUT: 
+0XMRk51LBe2cqDef
+=========================================
+ID: 85
+ORIGIN INPUT: 
+rBRFRVqSwMhuBScC
+=========================================
+ID: 86
+ORIGIN INPUT: 
+3KZcuvQukcVtkucL
+=========================================
+ID: 87
+ORIGIN INPUT: 
+Wku8mgMoJOZ5HXE7
+=========================================
+ID: 88
+ORIGIN INPUT: 
+wtNppoPffFpQV1Ee
+=========================================
+ID: 89
+ORIGIN INPUT: 
+p43ghC4Gdzo9x3Uw
+=========================================
+ID: 90
+ORIGIN INPUT: 
+nikUz3sWL76x68XV
+=========================================
+ID: 91
+ORIGIN INPUT: 
+ldOEH9hNV1XCkq8U
+=========================================
+ID: 92
+ORIGIN INPUT: 
+h0SJzCNOeVNfVBp5
+=========================================
+ID: 93
+ORIGIN INPUT: 
+F4j0VBjr2YAnnPnD
+=========================================
+ID: 94
+ORIGIN INPUT: 
+EQ4kqRGYYpPv9HLY
+=========================================
+ID: 95
+ORIGIN INPUT: 
+ROsKLz7A2TuYcOTq
+=========================================
+ID: 96
+ORIGIN INPUT: 
+QSXivHm2Gv041m0Z
+=========================================
+ID: 97
+ORIGIN INPUT: 
+cAKXeGqRfvx9Ao6X
+=========================================
+ID: 98
+ORIGIN INPUT: 
+iwbTRkuf3Xozd1Is
+=========================================
+ID: 99
+ORIGIN INPUT: 
+3HMY1fKbD5cwDHad
+=========================================
+ID: 100
+ORIGIN INPUT: 
+GCedevmK6QTWTlRy
+=========================================
